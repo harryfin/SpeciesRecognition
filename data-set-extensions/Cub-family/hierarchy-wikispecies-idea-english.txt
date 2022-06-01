@@ -1,0 +1,37 @@
+Procellariidae;Petrels & Shearwaters;Petrel & Shearwater
+Diomedeidae;Albatrosses;Albatross
+Cuculidae;Cuckoos;Cuckoo
+Alcidae;Auks;Auk
+Laridae;Gulls & terns;Gull & tern
+Stercorariidae;Skuas;Skua
+Phalacrocoracidae;Cormorants & shags;Cormorant & shag
+Fregatidae;Frigatebirds;Frigatebird
+Picidae;Woodpeckers;Woodpecker
+Anatidae;Ducks & geese & swans;Duck & goose & swan
+Podicipedidae;Grebes;Grebe
+Trochilidae;Hummingbirds;Hummingbird
+Alcedinidae;Kingfishers;Kingfisher
+Gaviidae;Loons;Loon
+Pelecanidae;Pelicans;Pelican
+Icteridae;Icterids;Icterid
+Icteriidae;Yellow breasted chat
+Cardinalidae;Cardinals;Cardinal
+Passerellidae;New World sparrows;New World sparrow
+Passeridae;Sparrows;Sparrow
+Fringillidae;Finches;Finch
+Alaudidae;Larks;Lark
+Sittidae;Nuthatches;Nuthatch
+Parulidae;New World warblers;New World warbler
+Motacillidae;Pipits & Wagtails;Pipit & Wagtail
+Ptilonorhynchidae;Bowerbirds;Bowerbird
+Mimidae;Mockingbirds & thrashers;Mockingbird & thrasher
+Sturnidae;Starlings;Starling
+Bombycillidae;waxwings;waxwing
+Certhiidae;Treecreepers;Treecreeper
+Troglodytidae;Wrens;Wren
+Corvidae;crows;crow
+Laniidae;Shrikes;Shrike
+Vireonidae;Vireos;Vireo
+Hirundinidae;Swallows;Swallow
+Tyrannidae;Tyrant flycatchers;Tyrant flycatcher
+Caprimulgidae;Nightjars;Nightjar

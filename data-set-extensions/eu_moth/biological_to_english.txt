@@ -1,0 +1,200 @@
+abrostola tripartita;spectacle moth
+abrostola triplasia;dark spectacle moth
+achlya flavicornis;yellow horned moth
+acronicta aceris;sycamore moth
+acronicta leporina;miller moth
+acronicta megacephala;poplar grey moth
+acronicta psi;grey dagger moth
+aglia tau;tau emperor moth
+agriopis aurantiaria;scarce umber moth
+agriopis leucophaearia;spring usher moth
+agriopis marginaria;dotted border moth
+agrochola litura;brown-spot pinion moth
+agrochola lunosa;lunar underwing moth
+agrochola macilenta;yellow-line quaker moth
+agrotis exclamationis;heart and dart moth
+agrotis ipsilon;dark sword-grass moth
+agrotis puta;shuttle-shaped dart moth
+alcis repandata;mottled beauty moth
+alsophila aescularia;march moth
+amphipyra pyramidea/berberea;copper underwing moth
+anorthoa munda;twin-spotted quaker moth
+apamea monoglypha;dark arches moth
+apamea scolopacina;slender brindle moth
+aplocera plagiata/efformata;treble-bar moth
+apocheima hispidaria;small brindled beauty moth
+apoda limacodes;festoon moth
+arctia caja;garden tiger moth
+asthena albulata;small white wave moth
+atolmis rubricollis;red-necked footman moth
+autographa gamma;silver y moth
+axylia putris;flame moth
+biston betularia;peppered moth
+biston strataria;oak beauty moth
+cabera exanthemata;common wave moth
+cabera pusaria;common white wave moth
+callimorpha dominula;scarlet tiger moth
+calliteara pudibunda;pale tussock moth
+campaea margaritaria;campaea margaritata moth
+camptogramma bilineata;yellow shell moth
+caradrina clavipalpis;pale mottled willow moth
+catocala nupta;red underwing moth
+cerapteryx graminis;antler moth
+charanyca trigrammica;treble lines moth
+chesias legatella;streak moth
+chloroclysta siterata;red-green carpet moth
+chloroclystis v-ata;v-pug moth
+colocasia coryli;nut-tree tussock moth
+colostygia pectinataria;green carpet moth
+colotois pennaria;feathered thorn moth
+conistra erythrocephala;red-headed chestnut moth
+conistra rubiginosa;black-spot chestnut moth
+conistra vaccinii;chestnut moth
+cosmia pyralina;lunar-spotted pinion moth
+cosmia trapezina;dun-bar moth
+cosmorhoe ocellata;cosmorhoe moth
+craniophora ligustri;coronet moth
+cryphia algae;tree-lichen beauty moth
+cybosia mesomella;four-dotted footman moth
+cyclophora linearia;clay triple-lines moth
+cyclophora punctaria;maiden's blush moth
+cymatophorina diluta;oak lutestring moth
+deilephila elpenor;elephant hawk moth
+deilephila porcellus;small elephant hawk moth
+deileptenia ribeata;satin beauty moth
+deltote pygarga;marbled white spot moth
+diarsia brunnea;purple clay moth
+diarsia mendica;ingrailed clay moth
+drepana falcataria;pebble hook-tip moth
+drymonia obliterata;indistinct marbled brown moth
+drymonia ruficornis;lunar marbled brown moth
+dysstroma truncata;common marbled carpet moth
+ecliptopera capitata;None
+ecliptopera silaceata;small phoenix moth
+ectropis crepuscularia;engrailed moth
+eilema complana;scarce footman moth
+eilema depressa;buff footman moth
+eilema sororcula;orange footman moth
+elaphria venustula;rosy marbled moth
+ennomos fuscantaria;dusky thorn moth
+epirrhoe alternata;common carpet moth
+epirrita autumnata/dilutata/christyi;autumnal moth
+erannis defoliaria;mottled umber moth
+eupithecia abbreviata;brindled pug moth
+eupithecia icterata;tawny speckled pug moth
+eupithecia succenturiata;bordered pug moth
+eupithecia tantillaria;dwarf pug moth
+euplexia lucipara;small angle shades moth
+eupsilia transversa;satellitev moth
+eustroma reticulata;netted carpet moth
+geometra papilionaria;large emerald moth
+gymnoscelis rufifasciata;double-striped pug moth
+habrosyne pyritoides;buff arches moth
+hada plebeja;shears moth
+hemithea aestivaria;common emerald moth
+herminia grisealis;small fan-foot moth
+herminia tarsicrinalis;shaded fan-foot moth
+herminia tarsipennalis;fan-foot moth
+hoplodrina octogenaria;uncertain moth
+horisme tersata;fern moth
+hydriomena impluviata;may highflyer moth
+hylaea fasciaria;barred red moth
+hypena proboscidalis;snout moth
+hypomecis punctinalis;pale oak beauty moth
+idaea aversata;riband wave moth
+idaea biselata;small fan-footed wave moth
+idaea dimidiata;single-dotted wave moth
+idaea seriata;small dusty wave moth
+lacanobia oleracea;bright-line brown-eye moth
+lampropteryx otregiata;devon carpet moth
+lampropteryx suffumata;water carpet moth
+laothoe populi;poplar hawk-moth
+laspeyria flexula;beautiful hook-tip moth
+ligdia adustata;scorched carpet moth
+lobophora halterata;seraphim moth
+lomaspilis marginata;clouded border moth
+lomographa temerata;clouded silver moth
+lymantria dispar;gypsy moth
+lymantria monacha;black arches moth
+macaria alternata;sharp-angled peacock moth
+macaria liturata;tawny-barred angle moth
+macaria notata;peacock moth
+melanthia procellata;pretty chalk carpet moth
+mesapamea spec;common rustic moth
+mesoligia furuncula;cloaked minor moth
+mimas tiliae;lime hawk-moth
+mythimna albipuncta;white-point moth
+mythimna ferrago;clay moth
+mythimna impura;smoky wainscot moth
+mythimna l-album;l-album wainscot moth
+noctua comes;lesser yellow underwing moth
+noctua fimbriata;broad-bordered yellow underwing moth
+noctua interjecta;least yellow underwing moth
+noctua janthina/janthe;lesser broad-bordered yellow underwing moth
+noctua pronuba;large yellow underwing moth
+nola confusalis;least black arches moth
+notodonta dromedarius;iron prominent moth
+nycteola revayana;oak nycteoline moth
+ochropacha duplaris;common lutestring moth
+ochropleura plecta;flame shoulder moth
+odontopera bidentata;scalloped hazel moth
+oligia fasciuncula;middle-barred minor moth
+oligia latruncula/strigilis/versicolor;marbled minor moth
+operophtera brumata;winter moth
+opisthograptis luteolata;brimstone moth
+orthosia cerasi;common quaker moth
+orthosia cruda;small quaker moth
+orthosia gothica;hebrew character moth
+orthosia incerta;clouded drab moth
+ourapteryx sambucaria;swallow-tailed moth
+parectropis similaria;brindled white-spot moth
+pareulype berberata;barberry carpet moth
+pasiphila rectangulata;green pug moth
+peribatodes rhomboidaria;willow beauty moth
+peribatodes secundaria;feathered beauty moth
+perizoma alchemillata;small rivulet moth
+petrophora chlorosata;brown silver-line moth
+phalera bucephala;buff-tip moth
+pheosia gnoma;lesser swallow prominent moth
+pheosia tremula;swallow prominent moth
+phigalia pilosaria;pale brindled beauty moth
+phlogophora meticulosa;angle shades moth
+phragmatobia fuliginosa;ruby tiger moth
+poecilocampa populi;december moth
+polia nebulosa;grey arches moth
+pseudoips prasinana;green silver-lines moth
+pseudoterpna pruinata;grass emerald moth
+pterostoma palpina;pale prominent moth
+ptilodon capucina;coxcomb prominent moth
+pungeleria capreolaria;None
+rivula sericealis;straw dot moth
+scopula nigropunctata;sub-angled wave moth
+sphinx ligustri;privet hawk moth
+sphinx pinastri;pine hawk-moth
+spilarctia lutea;buff ermine moth
+spilosoma lubricipeda;white ermine moth
+stauropus fagi;lobster moth
+sunira circellaris;brick moth
+tethea or;poplar lutestring moth
+tetheella fluctuosa;satin lutestring moth
+thera variata/britannica;spruce carpet moth
+tholera decimalis;feathered gothic moth
+thumatha senex;round-winged muslin moth
+thyatira batis;peach blossom moth
+tiliacea aurago;barred sallow moth
+timandra comae;blood-vein moth
+trachea atriplicis;orache moth
+triodia sylvina;orange swift moth
+trisateles emortualis;olive crescent moth
+watsonalla binaria;oak hook-tip moth
+watsonalla cultraria;barred hook-tip moth
+xanthorhoe biriviata;balsam carpet moth
+xanthorhoe designata;flame carpet moth
+xanthorhoe ferrugata;dark-barred twin-spot carpet moth
+xanthorhoe fluctuata;garden carpet moth
+xanthorhoe montanata;silver-ground carpet moth
+xestia baja;dotted clay moth
+xestia c-nigrum;setaceous hebrew character moth
+xestia triangulum;double square-spot moth
+xestia xanthographa;square-spot rustic moth
+xylocampa areola;early grey moth

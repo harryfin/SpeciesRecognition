@@ -1,0 +1,31 @@
+name: spec_rec_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch=1.7.1
+  - torchvision
+  - cudatoolkit=11.0
+  - ipykernel
+  - pip:
+    - ftfy 
+    - regex 
+    - tqdm
+    - wandb
+    - git+https://github.com/openai/CLIP.git
+    - ipython==8.2.0
+    - mat4py==0.5.0
+    - numpy==1.20.3
+    - pandas==1.3.3
+    - Pillow==9.1.0
+    - pyforest==1.1.0
+    - pytest==6.2.4
+    - PyYAML==6.0
+    - scikit_learn==1.0.2
+    - setuptools==58.0.4
+    - torch==1.7.1
+    - torchvision==0.8.2
+    - transformers==4.11.3

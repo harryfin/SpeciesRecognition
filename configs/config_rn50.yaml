@@ -1,0 +1,20 @@
+#Standard-Config - from CLIP Finetuning on CUB
+
+model_architecture: 'RN50'
+batch_size: 64
+epochs: 50  #50
+lr: 4.6408132981346306e-05
+beta1: 0.9
+beta2: 0.999
+eps: 1.e-8
+weight_decay: 0.012359547782744135
+warmup_steps: None
+validation_split: 0.2
+n_splits: 1
+log_interval: 10
+optim: AdamW
+mode: train #train or val
+freeze: False
+scheduler: 'no'
+cuda_det: null #null wird zu None
+seed: null #42
